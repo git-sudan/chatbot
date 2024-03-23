@@ -21,7 +21,7 @@ def response_generator():
         [
             "Hello there! Currently we are working on integrating OpenAI models, stay tuned!",
             "Hi, Our Villupuram Engineering team is working on giving best to you. stay tuned!",
-            "Otha! adhaan innum ready agala nu solrom la, wait panra sunni!"
+            "Work in progress, please wait"
            
         ]
     )
